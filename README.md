@@ -1,6 +1,6 @@
-# Optimisation #
+# Machine Learning Project #
 
-Machine Learning Project - Learning from the crowd
+Le nom du projet est Learning From the Crowd.
 
 
 ##Description des bases de données ##
