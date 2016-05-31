@@ -1,0 +1,4 @@
+- Abalone_Reg.csv
+	Database pour la régression linéaire. Prédire l'age d'abalones en fonction de caractérisques corporelles (9 caractéristiques).
+	Déconseille la renormalisation de la database.
+	3 annotateurs générés par tho = np.array([0.2,0.5,1.0])
