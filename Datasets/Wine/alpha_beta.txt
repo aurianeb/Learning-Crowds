@@ -12,3 +12,8 @@
 	R = 5
 	Cette base de données est le traitement de winequality-white.csv
 
+*base redWine_reg.csv : 
+	lambda : [ 0.79469086  0.23980067  0.6181604   0.38424655  0.82722564]
+	d = 11
+	R = 5
+
